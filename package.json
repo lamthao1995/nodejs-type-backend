@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-type-backend",
+  "version": "1.0.0",
+  "description": "learn node, type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamthao1995/nodejs-type-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamthao1995/nodejs-type-backend/issues"
+  },
+  "homepage": "https://github.com/lamthao1995/nodejs-type-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
